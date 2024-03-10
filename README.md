@@ -11,6 +11,7 @@
 | Título                    | Descrição                                                                        |
 | ------------------------- | ---------------------------------------------------------------------------------|
 | Blog Fashion              | Primeiro Projeto da CodeCademy                                                   |
+| Wine Festival             | Segundo Projeto - Utilizando Tabela                                              |
 
 </div> 
 </details>
