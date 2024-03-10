@@ -10,8 +10,8 @@
   
 | Título                    | Descrição                                                                        |
 | ------------------------- | ---------------------------------------------------------------------------------|
-| Blog Fashion              | Primeiro Projeto da CodeCademy                                                   |
-| Wine Festival             | Segundo Projeto - Utilizando Tabela                                              |
+| Blog Fashion              | Primeiro Projeto: CodeCademy                                                     |
+| Wine Festival             | Segundo Projeto: Trabalhando com Tabela                                          |
 
 </div> 
 </details>
