@@ -13,6 +13,7 @@
 | Blog Fashion              | Primeiro Projeto: CodeCademy                                                     |
 | Wine Festival             | Segundo Projeto: Trabalhando com Tabela                                          |
 | New York                  | Terceiro Projeto: Site sobre Nova York                                           |
+| Receita                   | Quarto Projeto: Receita de Salada (+CSS)                                         |
 </div> 
 </details>
 
