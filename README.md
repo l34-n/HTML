@@ -15,6 +15,7 @@
 | New York                  | Terceiro Projeto: Site sobre Nova York                                           |
 | Brown Bear                | Quarto Projeto: Site sobre Ursos Marrons                                         |
 | Receita                   | Quinto Projeto: Receita de Salada (+CSS)                                         |
+| Portfolio                 | Sexto Projeto: Portfolio da Olivia Woodruff (+CSS)                               |
 </div> 
 </details>
 
